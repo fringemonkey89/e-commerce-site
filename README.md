@@ -13,7 +13,7 @@
   - Postman
 
 ## Screenshot
-<img src=''>
+<img src='ecommerce.png'>
 
 ## Installation
   To install the application, do the following
