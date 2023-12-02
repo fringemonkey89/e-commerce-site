@@ -91,6 +91,7 @@ router.delete('/:id', (req, res) => {
   .then(category => {
     if (!category) {
       res.status(400).json({message: 'No category found with this id'})
+      return;
     }
     res.json(category)
   })
