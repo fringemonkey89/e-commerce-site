@@ -72,7 +72,7 @@ router.put('/:id', (req, res) => {
   Tag.update(
     {tag_name: req.body.tag_name},
     {where: {
-      id: req.params
+      id: req.params.id
     }}
   )
   .then(tag => {
