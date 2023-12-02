@@ -12,6 +12,9 @@
   - NPM
   - Postman
 
+## Screenshot
+<img src=''>
+
 ## Installation
   To install the application, do the following
   
@@ -25,3 +28,7 @@
     - Seed the database 
     - Install the necessary packages using 'npm i'.
     - Run npm start and begin testing!
+
+## Link to Walk-Through
+https://drive.google.com/file/d/1qdIjwin8dZ1AGjGRmLXVnZrCH-l0tJD_/view
+
